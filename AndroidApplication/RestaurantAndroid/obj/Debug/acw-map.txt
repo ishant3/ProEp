@@ -1,0 +1,4 @@
+RestaurantAndroid.MainActivity, RestaurantAndroid;md51f3c029d0e7eb40ffbd0343ca9e7a283.MainActivity
+RestaurantAndroid.MainActivity, RestaurantAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51f3c029d0e7eb40ffbd0343ca9e7a283.MainActivity
+RestaurantAndroid.MainActivity;md51f3c029d0e7eb40ffbd0343ca9e7a283.MainActivity
+restaurantandroid.MainActivity;md51f3c029d0e7eb40ffbd0343ca9e7a283.MainActivity
